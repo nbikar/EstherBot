@@ -4,6 +4,7 @@
     "BOB": "Check",
     "CHECK":"BOB BOB",
     "LOVE": "Labob",
+    "LABOB" : "Bob Check"
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
